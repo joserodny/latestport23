@@ -191,6 +191,10 @@ h2::selection {
     background: url(../assets/project/winejouse.png) center center/cover;
 }
 
+.card:nth-child(7) {
+    background: url(https://media.licdn.com/dms/image/D5622AQGDCF8-mqULaA/feedshare-shrink_800/0/1686477676633?e=1689206400&v=beta&t=CVUJl0tUxhMqpRUxX0TKBaz6vksPNYPpRu9XysgDn48) center center/cover;
+}
+
 
 /* Media Queries */
 
